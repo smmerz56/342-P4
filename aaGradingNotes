@@ -1,0 +1,10 @@
+
+The ADT is not a mathematical function. It's just the form of the expression.
+
+In toPostfix, can take postfix[++count] = ... out of the if since it's
+done in either case.
+
+Execution
+-----------
+
+Crashed - check for dividing by zero. Otherwise, correct output.
